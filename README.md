@@ -49,6 +49,7 @@
 * [CMake](https://cmake.org)
 * [Neovim](https://neovim.io/)
   * [Neovide](https://neovide.dev/)
+    * Add to right click context menu with the command `:NeovideRegisterRightClick`
   * [vim-plug](https://github.com/junegunn/vim-plug)
   * [ripgrep](https://github.com/BurntSushi/ripgrep)
 * [Visual Studio](https://visualstudio.microsoft.com/)
