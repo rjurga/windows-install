@@ -51,6 +51,7 @@
   * [Neovide](https://neovide.dev/)
     * Add to right click context menu with the command `:NeovideRegisterRightClick`
   * [vim-plug](https://github.com/junegunn/vim-plug)
+    * Copy `plug.vim` to `~/AppData/Local/nvim-data/site/autoload/plug.vim`
   * [ripgrep](https://github.com/BurntSushi/ripgrep)
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Python](https://www.python.org/)
