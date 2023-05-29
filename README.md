@@ -63,6 +63,7 @@
 ## Multimedia software
 
 * [IrfanView](https://www.irfanview.com/)
+* [Paint.NET](https://getpaint.net/)
 * [mpv](https://mpv.io/)
   * [FFmpeg](https://www.ffmpeg.org/)
   * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
