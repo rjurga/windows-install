@@ -54,6 +54,7 @@
     * Copy `plug.vim` to `~/AppData/Local/nvim-data/site/autoload/plug.vim`
   * [ripgrep](https://github.com/BurntSushi/ripgrep)
 * [Visual Studio](https://visualstudio.microsoft.com/)
+* [RAD Debugger](https://github.com/EpicGamesExt/raddebugger)
 * [Python](https://www.python.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * Graphics Tools
