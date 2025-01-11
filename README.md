@@ -47,6 +47,7 @@
 * [Fork](https://git-fork.com/)
 * [LLVM](https://releases.llvm.org/)
 * [CMake](https://cmake.org)
+* [Slang](https://shader-slang.com/)
 * [Neovim](https://neovim.io/)
   * [Neovide](https://neovide.dev/)
     * Add to right click context menu with the command `:NeovideRegisterRightClick`
