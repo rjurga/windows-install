@@ -61,6 +61,7 @@
 * Graphics Tools
   * Settings > Apps > Optional features > Add an optional feature > Graphics Tools
 * [RenderDoc](https://renderdoc.org/)
+* [WinMerge](https://winmerge.org/)
 
 ## Multimedia software
 
