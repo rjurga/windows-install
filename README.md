@@ -14,6 +14,8 @@
   * Settings > System > Sound > All sound devices > Select device > Audio > Don't allow
 * Disable mouse acceleration
   * Settings > Bluetooth & devices > Mouse > Enhance pointer precision > Off
+* Always show scrollbars
+  * Settings > Accessibility > Visual effects > Always show scrollbars > On
 * Disable animation effects
   * Settings > Accessibility > Visual effects > Animation effects > Off
 * Disable accessibility keyboard shortcuts
