@@ -63,9 +63,10 @@
 * [IrfanView](https://www.irfanview.com/)
 * [Paint.NET](https://getpaint.net/)
 * [mpv](https://mpv.io/)
-  * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [foobar2000](https://www.foobar2000.org/)
 * [Steam](https://store.steampowered.com/)
+* [Epic Games](https://store.epicgames.com/)
 
 ## Misc software
 
