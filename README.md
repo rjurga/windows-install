@@ -30,11 +30,6 @@
   * [AMD](https://www.amd.com/en/support)
   * [Nvidia](https://www.nvidia.com/download/index.aspx)
 * [7-Zip](https://www.7-zip.org/)
-* [KbdEdit](http://www.kbdedit.com/)
-  * Download from Google Drive
-  * Personal edition at home
-  * Player edition at work
-  * Use the `US Compose Key.kbe` layout
 * [Everything](https://www.voidtools.com/)
 * [System Informer](https://systeminformer.sourceforge.io/)
 * [Sumatra PDF](https://www.sumatrapdfreader.org/)
