@@ -63,7 +63,6 @@
 * [IrfanView](https://www.irfanview.com/)
 * [Paint.NET](https://getpaint.net/)
 * [mpv](https://mpv.io/)
-  * [FFmpeg](https://www.ffmpeg.org/)
   * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [foobar2000](https://www.foobar2000.org/)
 * [Steam](https://store.steampowered.com/)
