@@ -14,6 +14,8 @@
   * Settings > System > Sound > All sound devices > Select device > Audio > Don't allow
 * Disable mouse acceleration
   * Settings > Bluetooth & devices > Mouse > Enhance pointer precision > Off
+* Disable animation effects
+  * Settings > Accessibility > Visual effects > Animation effects > Off
 * Set time to UTC
   * regedit > `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation` > add DWORD value `RealTimeIsUniversal` with hexadecimal value `1`
 * Disable indexing
