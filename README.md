@@ -8,6 +8,8 @@
   * Edit group policy > User Configuration -> Administrative Templates -> Windows Components -> File Explorer -> Turn off display of recent search entries in the File Explorer search box > Enabled
 * Disable fast boot and sleep
   * Control Panel > System and Security > Power Options > Choose what the power buttons do
+* Disable sleep timeout
+  * Settings > System > Power > Screen, sleep, & hibernate timeouts > Make my device sleep after > Never
 * Remove unused audio devices
   * Settings > System > Sound > All sound devices > Select device > Audio > Don't allow
 * Set time to UTC
