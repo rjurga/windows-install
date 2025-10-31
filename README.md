@@ -16,6 +16,9 @@
   * Settings > Bluetooth & devices > Mouse > Enhance pointer precision > Off
 * Disable animation effects
   * Settings > Accessibility > Visual effects > Animation effects > Off
+* Disable accessibility keyboard shortcuts
+  * Settings > Accessibility > Keyboard > Sticky keys > Keyboard shortcut for Sticky keys > Off
+  * Settings > Accessibility > Keyboard > Filter keys > Keyboard shortcut for Filter keys > Off
 * Set time to UTC
   * regedit > `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation` > add DWORD value `RealTimeIsUniversal` with hexadecimal value `1`
 * Disable indexing
