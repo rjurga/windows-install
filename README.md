@@ -8,8 +8,8 @@
   * Edit group policy > User Configuration -> Administrative Templates -> Windows Components -> File Explorer -> Turn off display of recent search entries in the File Explorer search box > Enabled
 * Disable fast boot and sleep
   * Control Panel > System and Security > Power Options > Choose what the power buttons do
-* Disable audio enhancements
-  * Settings > System > Sound > More sound settings > Playback > Speakers > Properties > Advanced > Enable audio enhancements > Uncheck
+* Remove unused audio devices
+  * Settings > System > Sound > All sound devices > Select device > Audio > Don't allow
 * Set time to UTC
   * regedit > `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation` > add DWORD value `RealTimeIsUniversal` with hexadecimal value `1`
 * Disable indexing
