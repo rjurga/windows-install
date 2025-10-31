@@ -66,6 +66,7 @@
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [OBS](https://obsproject.com/)
 * [foobar2000](https://www.foobar2000.org/)
+* [Spotify](https://open.spotify.com/)
 * [Steam](https://store.steampowered.com/)
 * [Epic Games](https://store.epicgames.com/)
 
