@@ -45,7 +45,6 @@
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 * [System Informer](https://systeminformer.sourceforge.io/)
-* [Sumatra PDF](https://www.sumatrapdfreader.org/)
 
 ## Development software
 
@@ -73,6 +72,7 @@
 
 ## Multimedia software
 
+* [Sumatra PDF](https://www.sumatrapdfreader.org/)
 * [IrfanView](https://www.irfanview.com/)
 * [Paint.NET](https://getpaint.net/)
 * [mpv](https://mpv.io/)
