@@ -42,6 +42,8 @@
   * [Nvidia](https://www.nvidia.com/download/index.aspx)
 * [7-Zip](https://www.7-zip.org/)
 * [Everything](https://www.voidtools.com/)
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 * [System Informer](https://systeminformer.sourceforge.io/)
 * [Sumatra PDF](https://www.sumatrapdfreader.org/)
 
