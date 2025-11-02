@@ -22,7 +22,7 @@
   * Settings > Accessibility > Keyboard > Sticky keys > Keyboard shortcut for Sticky keys > Off
   * Settings > Accessibility > Keyboard > Filter keys > Keyboard shortcut for Filter keys > Off
 * Disable virus scan notifications
-  * Windows Security > Settings > Manage notifications > Virus & thread protection notifications > Recent activity and scan results > Off
+  * Windows Security > Settings > Manage notifications > Virus & threat protection notifications > Recent activity and scan results > Off
 * Set time to UTC
   * regedit > `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation` > add DWORD value `RealTimeIsUniversal` with hexadecimal value `1`
 * Disable indexing
