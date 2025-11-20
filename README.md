@@ -51,7 +51,7 @@
 ## Development software
 
 * [Hack](https://sourcefoundry.org/hack/)
-* [Clink](https://mridgers.github.io/clink/)
+* [Clink](https://chrisant996.github.io/clink/)
 * [Git](https://gitforwindows.org/)
 * [Fork](https://git-fork.com/)
 * [LLVM](https://releases.llvm.org/)
