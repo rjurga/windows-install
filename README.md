@@ -68,7 +68,7 @@
 * [Python](https://www.python.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * Graphics Tools
-  * Settings > Apps > Optional features > Add an optional feature > Graphics Tools
+  * Settings > System > Optional features > View or edit optional features > Graphics Tools
 * [RenderDoc](https://renderdoc.org/)
 * [WinMerge](https://winmerge.org/)
 
