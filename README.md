@@ -70,7 +70,6 @@
 * Graphics Tools
   * Settings > System > Optional features > View or edit optional features > Graphics Tools
 * [RenderDoc](https://renderdoc.org/)
-* [WinMerge](https://winmerge.org/)
 
 ## Multimedia software
 
