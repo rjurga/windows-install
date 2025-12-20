@@ -106,4 +106,3 @@
     * Locations > Project location > ...
   * Text Editor > CodeLens > Enable CodeLens > Off
   * NuGet Package Manager > General > Allow NuGet to download missing packages > Off
-  * Source Control
