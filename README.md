@@ -101,6 +101,7 @@
       * Allow editing of read-only files; warn when attempting to save > Off
       * Check for consistent line endings on load > Off
     * Tabs > Insert new tabs to the right of existing tabs > On
+    * More Settings > Fonts and Colors > ...
   * Projects and Solutions
     * Build And Run > On Run, when projects are out of date > Prompt to build
     * Locations > Project location > ...
