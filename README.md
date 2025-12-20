@@ -56,7 +56,6 @@
 * [Fork](https://git-fork.com/)
 * [LLVM](https://releases.llvm.org/)
 * [CMake](https://cmake.org/)
-* [Premake](https://premake.github.io/)
 * [Slang](https://shader-slang.com/)
 * [Neovim](https://neovim.io/)
   * [Neovide](https://neovide.dev/)
@@ -91,3 +90,20 @@
 * [Discord](https://discord.com/)
 * [WireGuard](https://www.wireguard.com/)
 * [qBittorrent](https://www.qbittorrent.org/)
+
+## Visual Studio settings
+
+* Tools > Import and Export Settings > Import selected environment settings > Visual C++
+* Tools > Options
+  * Environment
+    * Visual Experience > Hide Copilot Badge > On
+    * Documents
+      * Allow editing of read-only files; warn when attempting to save > Off
+      * Check for consistent line endings on load > Off
+    * Tabs > Insert new tabs to the right of existing tabs > On
+  * Projects and Solutions
+    * Build And Run > On Run, when projects are out of date > Prompt to build
+    * Locations > Project location > ...
+  * Text Editor > CodeLens > Enable CodeLens > Off
+  * NuGet Package Manager > General > Allow NuGet to download missing packages > Off
+  * Source Control
