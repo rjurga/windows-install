@@ -103,6 +103,7 @@
     * Tabs > Insert new tabs to the right of existing tabs > On
     * More Settings > Fonts and Colors > ...
   * Projects and Solutions
+    * General > Always show Error List if build finishes with errors > On
     * Build And Run > On Run, when projects are out of date > Prompt to build
     * Locations > Project location > ...
   * Text Editor > CodeLens > Enable CodeLens > Off
