@@ -64,6 +64,7 @@
     * Copy `plug.vim` to `~/AppData/Local/nvim-data/site/autoload/plug.vim`
   * [tree-sitter-cli](https://github.com/tree-sitter/tree-sitter/)
   * [ripgrep](https://github.com/BurntSushi/ripgrep)
+  * [fd](https://github.com/sharkdp/fd)
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [RAD Debugger](https://github.com/EpicGamesExt/raddebugger)
 * [Python](https://www.python.org/)
