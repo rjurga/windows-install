@@ -29,6 +29,8 @@
   * Services > Windows Search > Properties > Startup type > Disabled
 * Revert to old right click menu in File Explorer
   * regedit > `HKEY_CURRENT_USER\Software\Classes\CLSID` > right click > New > Key > `{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}` > right click > New > Key > `InprocServer32` > (Default) > Value data > empty > OK
+* Disable sharing window from taskbar
+  * Settings > Personalization > Taskbar > Taskbar behaviors > Share any window from my taskbar > Off
 * Uninstall useless default apps
 * Run windows update
 
