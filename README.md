@@ -23,15 +23,13 @@
   * Settings > Accessibility > Keyboard > Filter keys > Keyboard shortcut for Filter keys > Off
 * Disable virus scan notifications
   * Windows Security > Settings > Manage notifications > Virus & threat protection notifications > Recent activity and scan results > Off
-* Set time to UTC
-  * regedit > `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation` > add DWORD value `RealTimeIsUniversal` with hexadecimal value `1`
 * Disable indexing
   * Services > Windows Search > Properties > Startup type > Disabled
 * Revert to old right click menu in File Explorer
   * regedit > `HKEY_CURRENT_USER\Software\Classes\CLSID` > right click > New > Key > `{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}` > right click > New > Key > `InprocServer32` > (Default) > Value data > empty > OK
 * Disable sharing window from taskbar
   * Settings > Personalization > Taskbar > Taskbar behaviors > Share any window from my taskbar > Off
-* Disable File Explorer opening in existing windows
+* Disable File Explorer opening in existing window
   * File Explorer > Options > View > Launch folder windows in a separate process > On
 * Uninstall useless default apps
 * Run windows update
