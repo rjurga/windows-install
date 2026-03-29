@@ -60,8 +60,6 @@
 * [Neovim](https://neovim.io/)
   * [Neovide](https://neovide.dev/)
     * Add to right click context menu with the command `:NeovideRegisterRightClick`
-  * [vim-plug](https://github.com/junegunn/vim-plug)
-    * Copy `plug.vim` to `~/AppData/Local/nvim-data/site/autoload/plug.vim`
   * [tree-sitter-cli](https://github.com/tree-sitter/tree-sitter/)
   * [ripgrep](https://github.com/BurntSushi/ripgrep)
   * [fd](https://github.com/sharkdp/fd)
