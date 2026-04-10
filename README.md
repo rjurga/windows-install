@@ -63,6 +63,7 @@
   * [tree-sitter-cli](https://github.com/tree-sitter/tree-sitter/)
   * [ripgrep](https://github.com/BurntSushi/ripgrep)
   * [fd](https://github.com/sharkdp/fd)
+  * [fzf](https://github.com/junegunn/fzf)
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [RAD Debugger](https://github.com/EpicGamesExt/raddebugger)
 * [Python](https://www.python.org/)
