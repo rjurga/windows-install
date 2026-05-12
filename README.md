@@ -56,6 +56,7 @@
 * [Fork](https://git-fork.com/)
 * [LLVM](https://releases.llvm.org/)
 * [CMake](https://cmake.org/)
+* [Ninja](https://ninja-build.org/)
 * [Slang](https://shader-slang.com/)
 * [Neovim](https://neovim.io/)
   * [Neovide](https://neovide.dev/)
