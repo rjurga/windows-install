@@ -77,7 +77,7 @@
 ## Multimedia software
 
 * [Sumatra PDF](https://www.sumatrapdfreader.org/)
-* [IrfanView](https://www.irfanview.com/)
+* [Zeiger](https://zeigerviewer.com/)
 * [Paint.NET](https://getpaint.net/)
 * [mpv](https://mpv.io/)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
